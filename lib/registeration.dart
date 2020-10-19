@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 class Registeration extends StatelessWidget{
    @override
   Widget build(BuildContext context) {
-    var h = MediaQuery.of(context).size.height;
+    var  h = MediaQuery.of(context).size.height;
     return MaterialApp(
       home: Scaffold(
         body: 
